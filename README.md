@@ -8,7 +8,7 @@ If you’re an early-stage Python user looking to boost your professional game, 
 ### Instructor
 
 Ronnie Sheer
-
+" It is not my content "
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ronnie-sheer?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/hands-on-introduction-python
